@@ -16,3 +16,9 @@ hl {
   font-size: 40px;
   color: black;
 }
+
+@media only screen and (max-width:600px) {
+  hl {
+    font-size: 30px;
+  }
+}
