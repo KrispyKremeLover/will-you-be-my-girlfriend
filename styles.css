@@ -22,3 +22,13 @@ hl {
     font-size: 30px;
   }
 }
+
+@font-face {
+  font-family: 'BarbieFont';
+  src: url('DollieScriptPersonalUse-K3P7.ttf')
+  format('truetype');
+}
+
+body {
+  font-family: 'barbieFont', sans-serif;
+}
